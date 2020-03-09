@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  },
+  "name": "tarefa",
+  "version": "1.0",
+  "main": "index.js",
+  "repository": "https://github.com/guiruffo/tarefa.git",
+  "author": "guiruffo <guiruffoo@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+      "start": "nodemon index.js"
+  }
+}
