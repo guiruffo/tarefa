@@ -10,7 +10,7 @@
   "author": "guiruffo <guiruffoo@gmail.com>",
   "license": "MIT",
   "scripts": {
-      "start": "node index.js",
-      "dev": "nodemon index.js"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   }
 }
