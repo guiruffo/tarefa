@@ -2,7 +2,6 @@ const express = require('express');
 const server = express();
 var objetos = [
     {id: 1, descricao: 'Comprar pão', finalizado: false},
-    {id: 2, descricao: 'Comprar leite', finalizado: true},
 ];
 
 server.use(express.json());
